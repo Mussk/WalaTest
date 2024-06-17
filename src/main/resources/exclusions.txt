@@ -1,0 +1,3 @@
+com/ibm/wala/.*
+java/util/.*
+sun/.*
